@@ -6,10 +6,12 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: grey;
+    
   }
 
 li {
     float: left;
+    font-style: Bold;
     
   }
   li a {
@@ -25,3 +27,7 @@ li {
     color: white;
   }
 
+h1{
+    background-color: green;
+    position: center;
+}
