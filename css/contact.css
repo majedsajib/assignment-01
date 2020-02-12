@@ -22,3 +22,9 @@ li {
     background-color: red;
     color: white;
   }
+  div{
+    
+    padding: 20px;
+    margin: 30px;
+  }
+  h1{ background-color: chartreuse;}

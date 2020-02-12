@@ -1,4 +1,4 @@
-ul {
+ul  {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -21,4 +21,17 @@ li {
   li a:hover {
     background-color: red;
     color: white;
+  }
+
+  div{
+    padding: 20px;
+    margin: 30px;
+
+   }
+   h1{
+     background-color: darkgreen;
+   }
+
+  h2{
+    background-color: darkgray;
   }

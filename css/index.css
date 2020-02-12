@@ -30,4 +30,18 @@ li {
 h1{
     background-color: green;
     position: center;
-}
+
+
+   
+  }
+  .a{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+  }
+  
+  .a > div{
+    background-color: white;
+    
+  }
+  
