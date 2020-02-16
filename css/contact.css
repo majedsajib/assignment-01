@@ -1,3 +1,8 @@
+body{background-image: url('bg-01.jpg');}
+
+
+
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -28,3 +33,5 @@ li {
     margin: 30px;
   }
   h1{ background-color: chartreuse;}
+
+ 
