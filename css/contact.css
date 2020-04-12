@@ -1,37 +1,25 @@
-body{background-image: url('bg-01.jpg');}
-
-
-
-
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: grey;
-  }
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: grey;
+}
 
 li {
-    float: left;
-    
-  }
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 20px 16px;
-    text-decoration: none;
-  }
+  float: left;
+  
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+}
 
-  li a:hover {
-    background-color: red;
-    color: white;
-  }
-  div{
-    
-    padding: 20px;
-    margin: 30px;
-  }
-  h1{ background-color: chartreuse;}
-
+li a:hover {
+  background-color: red;
+  color: white;
+}
  
