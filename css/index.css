@@ -1,0 +1,23 @@
+#main-header { 
+    background-color: grey;
+    font-size: 30px;
+    padding: 20px;
+
+    display: flex;
+    justify-content: center;
+}
+#main-header:hover { 
+    background-color:gold;
+    color: black;
+    font-size: 40px;
+    padding: 20px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.navitem {
+
+    justify-content: space-around;
+} 
+
