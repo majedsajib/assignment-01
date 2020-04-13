@@ -21,3 +21,34 @@
     justify-content: space-around;
 } 
 
+#homevideo{
+    display: flex;
+}
+
+.vid1{
+    margin: 10px;
+    justify-content: space-around;
+    
+}
+
+.vid1:hover{
+    margin: 20px;
+    justify-content: space-around;
+    border: 10px red solid;
+
+}
+#details {
+    background-color: lightgreen;
+    display: flex;
+    border:20px;
+    border-radius: 10px;
+    padding: 15px ;
+}
+.details1 {
+    border: 20px gold solid;
+    font-size: 20px;
+    justify-content: center;
+    border-radius: 10px;
+    color: white;
+
+}
